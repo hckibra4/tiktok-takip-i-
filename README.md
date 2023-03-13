@@ -2,7 +2,8 @@
 ⚠️NOTE: Hello friends, this bot is made for educational purposes 
 ❗ those who use this bot are not entirely my responsibility,
  it is your responsibility, your responsibility is entirely your responsibility.
-içe aktarma  istekleri
+
+#içe aktarma  istekleri
 ithalat  zamanı
  csv'yi içe aktar
 
